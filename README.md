@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshayn" alt="lakshayn" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m proficient in **MERN Stack**
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **react, next, node, typescript**
 
 - 📫 How to reach me **lakshaynarula8888@gmail.com**
 
